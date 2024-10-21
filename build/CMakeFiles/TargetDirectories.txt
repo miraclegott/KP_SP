@@ -1,0 +1,4 @@
+E:/VSproject/SP/calculator/build/CMakeFiles/calculator.dir
+E:/VSproject/SP/calculator/build/CMakeFiles/main.dir
+E:/VSproject/SP/calculator/build/CMakeFiles/edit_cache.dir
+E:/VSproject/SP/calculator/build/CMakeFiles/rebuild_cache.dir

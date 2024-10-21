@@ -13,10 +13,3 @@ int Calculator::Sub(double a, double b)
 {
     return Add(a, -b);
 }
-
-// This function multiplies two double values and returns the rounded result as an integer.
-// The addition of 0.5 ensures proper rounding when casting to int.
-int Calculator::Mul(double a, double b)
-{
-    return a * b + 0.5;
-}
